@@ -137,3 +137,103 @@ header
     line-height: 29px;
     color: #737272;
 }
+.positive-section
+{
+    margin: 100px 0;
+    background-image: url("new-year-new-me-main/images/watch.png");
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+.positive
+{
+    background-image: url("new-year-new-me-main/images/gradient3.png");
+    background-repeat: no-repeat;
+    padding: 50px;
+    margin: 100px 0;
+}
+.positive h4
+{
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+    color: #FFFFFF;
+}
+.positive button
+{
+    padding: 15px 35px;
+    color: #F15B22;
+    border-radius: 5px;
+    margin-top: 10px;
+    border: none;
+}
+.positive button:hover
+{
+    color: #fff;
+    background-color: #F15B22;
+}
+footer
+{
+    
+    background-color: #000;
+    padding: 100px 0;
+}
+.footer-section
+{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+}
+.side h2
+{
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    color: #F8F8F8;
+    margin-bottom: 25px;
+}
+.side p
+{
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+    margin-right: 500px;
+    margin-bottom: 15px;
+}
+.icon img
+{
+    width: 40px;
+    margin: 10px 10px 10px 0;
+}
+
+.side h4
+{
+    font-family: 'Work Sans';
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+.side input
+{
+    background-color: #000;
+    padding: 10px 10px;
+    margin: 15px 0;
+    border: 1px solid #F8F8F8;
+    border-radius: 5px;
+}
+.side button
+{
+    padding: 15px 35px;
+    color: #fff;
+    border-radius: 5px;
+    margin-top: 10px;
+    border: none;
+    color: #F15B22;
+}
